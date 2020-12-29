@@ -1,1 +1,3 @@
-console.log("game-collector");
+import { search } from './api';
+
+search('Castlevania Symphony');
